@@ -3,7 +3,7 @@ banner:
   enable: true
   title: Nextcloudbox
   content: Your personal data are unique, they should rest it.
-  image: images/watch.png
+  image: images/nextcloudbox.jpg
   button:
     enable: true
     label: Browse All Products
