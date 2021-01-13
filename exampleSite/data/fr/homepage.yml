@@ -3,7 +3,7 @@ banner:
   enable: true
   title: Nextcloudbox
   content: Vos données personnelles sont uniques, elles doivent le rester.
-  image: images/watch.png
+  image: images/nextcloudbox.jpg
   button:
     enable: true
     label: Browse All Products
