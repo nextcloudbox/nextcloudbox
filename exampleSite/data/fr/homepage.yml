@@ -2,7 +2,8 @@
 banner:
   enable: true
   title: Nextcloudbox
-  content: Vos données personnelles sont uniques, elles doivent le rester.
+  content: Vous êtes uniques, vos données personnelles le sont aussi, elles doivent
+    le rester.
   image: images/nextcloudbox.png
   button:
     enable: true
