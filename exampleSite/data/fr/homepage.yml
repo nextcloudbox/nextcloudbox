@@ -11,7 +11,7 @@ banner:
 features:
   enable: true
   title: Personnalisation de votre nom de domaine
-  image: images/watch-2.png
+  image: images/nextcloudbox.png
   left_side:
   - title: Smooth Touch
     icon: tf-ion-ios-alarm-outline
