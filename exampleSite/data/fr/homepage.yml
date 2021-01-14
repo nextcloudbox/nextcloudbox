@@ -15,10 +15,10 @@ features:
   title: Votre serveur, chez vous
   image: images/nextcloudbox.png
   left_side:
-  - title: Un disque dur dimensionné à vos besoins.
+  - title: Un disque dur dimensionné à vos besoins, le prix aussi.
     icon: tf-ion-ios-alarm-outline
     content: Lors de l'achat de votre Nextcloudbox, vous choisissez la taille de votre
-      disque dur, on s'occupe du reste.
+      disque dur, on s'occupe du reste. Vous n'achetez que ce dont vous avez besoin.
   - title: Bien plus qu'un NAS, un vrai Cloud.
     icon: tf-ion-ios-bell-outline
     content: Nextcloudbox n'est pas un simple NAS. C'est un Cloud, un vrai. Via l'application
