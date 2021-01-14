@@ -19,7 +19,7 @@ features:
     icon: tf-ion-ios-alarm-outline
     content: Lors de l'achat de votre Nextcloudbox, vous choisissez la taille de votre
       disque dur, on s'occupe du reste.
-  - title: Bien plus qu'un NAS, un vrai Cloud
+  - title: Bien plus qu'un NAS, un vrai Cloud.
     icon: tf-ion-ios-bell-outline
     content: Nextcloudbox n'est pas un simple NAS. C'est un Cloud, un vrai. Via l'application
       Nextcloud, accédez à vos données en tout sécurité depuis n'importe où dans le
