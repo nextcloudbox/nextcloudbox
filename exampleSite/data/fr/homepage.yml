@@ -15,7 +15,7 @@ features:
   title: Votre serveur, chez vous
   image: images/nextcloudbox.png
   left_side:
-  - title: Choisissez la taille de votre disque dur
+  - title: Un disque dur dimensionné à vos besoins.
     icon: tf-ion-ios-alarm-outline
     content: Lors de l'achat de votre Nextcloudbox, vous choisissez la taille de votre
       disque dur, on s'occupe du reste.
