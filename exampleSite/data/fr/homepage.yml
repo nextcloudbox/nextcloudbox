@@ -17,8 +17,8 @@ features:
   left_side:
   - title: Un disque dur dimensionné à vos besoins, le prix aussi.
     icon: tf-ion-ios-alarm-outline
-    content: Lors de l'achat de votre Nextcloudbox, vous choisissez la taille de votre
-      disque dur, on s'occupe du reste. Vous n'achetez que ce dont vous avez besoin.
+    content: Lors de l'achat de votre Nextcloudbox, vous choisissez votre capacité
+      de stockage, on s'occupe du reste. Vous n'achetez que ce dont vous avez besoin.
       La contrainte de l'espace de stockage est terminée, plus besoin d'utiliser Dropbox,
       iCloud, Google Drive...
   - title: Bien plus qu'un NAS, un vrai Cloud.
