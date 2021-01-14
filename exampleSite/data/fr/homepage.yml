@@ -2,8 +2,9 @@
 banner:
   enable: true
   title: Nextcloudbox
-  content: Vous êtes uniques, vos données personnelles le sont aussi, elles doivent
-    le rester.
+  content: |-
+    Vous êtes uniques, vos données personnelles le sont aussi, elles doivent le rester.
+    Votre cloud maison, un seul disque dur pour toutes vos données. Votre espace de stockage accessible de partout.
   image: images/nextcloudbox.png
   button:
     enable: true
@@ -11,7 +12,7 @@ banner:
     link: products
 features:
   enable: true
-  title: Votre vie privée avant tout
+  title: Votre serveur, chez vous
   image: images/nextcloudbox.png
   left_side:
   - title: Smooth Touch
