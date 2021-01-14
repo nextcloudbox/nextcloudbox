@@ -46,10 +46,13 @@ features:
       choisi Debian car c''est un système libre et open source, considéré comme un
       des systèmes les plus sûrs au monde. Le code source est ouvert au public et
       vous pouvez même aller le consulter.'
-  - title: 'Nous partageons le code source, partagez vos fichiers '
+  - title: Partagez vos fichiers avec votre famille
     icon: tf-ion-ios-cart-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
+    content: Nextcloud est multi-utilisateurs, vous pouvez donc créer différents comptes
+      pour vos amis, familles... Chacun son compte, chacun ses fichiers. Vous pouvez
+      les partager si vous le souhaitez. Nextcloud possède également de nombreuses
+      application pour collaborer en ligne (éditer des fichiers comme sur Google Docs
+      par exemple).
 promo:
   enable: true
   image: images/nextcloudbox.png
