@@ -39,10 +39,12 @@ features:
       c'est notre métier. Nous sommes pentester, c'est à dire que nous réalises des
       tests d'intrusion sur tout type de périphérique. Alors autant vous dire, notre
       Nextcloudbox, nous l'avons testé.
-  - title: Elegant Design
+  - title: Une fusion libre
     icon: tf-ion-ios-bell-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
+    content: 'De quoi est constituée notre Nextcloudbox ? C''est simple : Un Raspberry
+      Pi 4 + YunoHost (Distribution Debian) + Nextcloud et ... c''est tout. Nous avons
+      choisi Debian car c''est un système libre et open source, considéré comme un
+      des systèmes les plus sûrs au monde.'
   - title: Easy Pricing
     icon: tf-ion-ios-cart-outline
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
