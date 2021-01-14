@@ -30,10 +30,10 @@ features:
       vos données : agendas, contatcs, photos, vidéos, mots de passe. Tout est chez
       vous, en sécurité.'
   right_side:
-  - title: Smooth Touch
+  - title: Les autres Cloud ? C'est fini
     icon: tf-ion-ios-alarm-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
+    content: La contrainte de l'espace de stockage est terminée, plus besoin d'utiliser
+      Dropbox, iCloud, Google Drive...
   - title: Elegant Design
     icon: tf-ion-ios-bell-outline
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
