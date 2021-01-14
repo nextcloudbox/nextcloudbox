@@ -24,10 +24,11 @@ features:
     content: Nextcloudbox n'est pas un simple NAS. C'est un Cloud, un vrai. Via l'application
       Nextcloud, accédez à vos données en tout sécurité depuis n'importe où dans le
       monde.
-  - title: Easy Pricing
+  - title: Synchronisez vos agendas, contacts iOS et Android.
     icon: tf-ion-ios-cart-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
+    content: 'Grâce à l''application Nextcloud, vous pouvez synchroniser facilement
+      vos données : agendas, contatcs, photos, vidéos, mots de passe. Tout est chez
+      vous, en sécurité.'
   right_side:
   - title: Smooth Touch
     icon: tf-ion-ios-alarm-outline
