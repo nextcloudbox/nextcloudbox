@@ -25,7 +25,8 @@ features:
     icon: tf-ion-ios-bell-outline
     content: Nextcloudbox n'est pas un simple NAS. C'est un Cloud, un vrai. Via l'application
       Nextcloud, accédez à vos données en tout sécurité depuis n'importe où dans le
-      monde.
+      monde. Vous n'avez même pas besoin d'une connexion internet si vous synchronisez
+      vos fichiers avec votre périphérique PC, mac ou smartphone.
   - title: Synchronisez vos agendas, contacts iOS et Android.
     icon: tf-ion-ios-cart-outline
     content: 'Grâce à l''application Nextcloud, vous pouvez synchroniser facilement
