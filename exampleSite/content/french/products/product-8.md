@@ -1,5 +1,5 @@
 ---
-title: Nextcloudbox
+title: Nextcloudbox 1 TO
 date: 2021-01-18T07:22:16+01:00
 images:
 - "/images/nextcloudbox-reduit.png"
