@@ -15,15 +15,15 @@ sections:
 - type: heading
   label: Products
 - type: directory
-  path: exampleSite/content/english/products
-  label: Product (en)
+  path: exampleSite/content/french/products
+  label: Products (fr)
   create: documents
   match: "**/*"
   templates:
   - product
 - type: directory
-  path: exampleSite/content/french/products
-  label: Products (fr)
+  path: exampleSite/content/english/products
+  label: Product (en)
   create: documents
   match: "**/*"
   templates:
@@ -31,21 +31,21 @@ sections:
 - type: heading
   label: Contact
 - type: document
-  path: exampleSite/content/english/contact/_index.md
-  label: Contact (en)
-- type: document
   path: exampleSite/content/french/contact/_index.md
   label: Contact (fr)
+- type: document
+  path: exampleSite/content/english/contact/_index.md
+  label: Contact (en)
 - type: heading
   label: All Pages
 - type: directory
-  path: exampleSite/content/english
-  label: All Page (en)
+  path: exampleSite/content/french
+  label: All Page (fr)
   create: all
   match: "**/*"
 - type: directory
-  path: exampleSite/content/french
-  label: All Page (fr)
+  path: exampleSite/content/english
+  label: All Page (en)
   create: all
   match: "**/*"
 - type: heading
