@@ -23,10 +23,6 @@ name = "Politique de confidentialité"
 url = "politique-confidentialite"
 weight = 3
 [[menu.footer]]
-name = "Conditions générales de vente"
-url = "conditions-vente"
-weight = 2
-[[menu.footer]]
 name = "Contact"
 url = "contact"
 weight = 1
