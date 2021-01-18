@@ -1,4 +1,4 @@
-baseurl = "http://examplesite.com/"
+baseurl = "https://nextcloudbox.netlify.app/"
 disableLanguages = []
 googleAnalytics = ""
 summarylength = "20"
