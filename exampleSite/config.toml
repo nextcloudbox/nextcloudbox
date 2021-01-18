@@ -48,8 +48,8 @@ pre = "#"
 url = "avis"
 weight = 4
 [[menu.main]]
-name = "Contact"
-url = "contact"
+name = "Contactez-nous"
+url = "contactez-nous"
 weight = 5
 [params]
 author = "Themefisher"
