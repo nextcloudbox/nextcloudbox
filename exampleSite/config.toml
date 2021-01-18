@@ -27,8 +27,8 @@ name = "Conditions générales de vente"
 url = "conditions-vente"
 weight = 3
 [[menu.footer]]
-name = "Privacy Policy"
-url = "privacy-policy"
+name = "Politique de confidentialité"
+url = "politique-confidentialite"
 weight = 4
 [[menu.main]]
 name = "Accueil"
