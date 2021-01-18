@@ -1,23 +1,23 @@
 ---
-title: Contactez nous
-description: Voici notre page de contact, n'hésitez pas à nous écire, nous répondrons
-  avec plaisir !
+title: Contactez-nous
+description: Voici notre page de contact, n'hésitez pas à nous envoyer un mail nous
+  y répondrons avec plaisir !
 office:
-  title: Cyber Factory
-  mobile: ''
-  email: ''
-  location: Paris, France
-  content: Voici notre page de contact, n'hésitez pas à nous écrire, nous vous répondrons
-    avec plaisir !
+  title: Central Office
+  mobile: '0124857985320'
+  email: demo@email.com
+  location: Dhaka, Bangladedsh
+  content: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
+    eirmod tempor invidunt ut labore et dolore magna
 opennig_hour:
-  title: Horaire d'ouverture
+  title: Opening Hours
   day_time:
-  - 'Lundi : 8:00 – 22:00'
-  - 'Mardi : 8:00 – 22:00'
-  - 'Mercredi : 8:00 – 22:00'
-  - 'Jeudi : 8:00 – 22:00'
-  - 'Vendredi : 8:00 – 22:00'
-  - 'Samedi : 8:00 – 22:00'
-  - 'Dimanche : 8:00 – 22:00'
+  - 'Monday: 9:00 – 19:00'
+  - 'Tuesday: 9:00 – 19:00'
+  - 'Wednesday: 9:00 – 19:00'
+  - 'Thursday: 9:00 – 19:00'
+  - 'Friday: 9:00 – 19:00'
+  - 'Saturday: 9:00 – 19:00'
+  - 'sunday: 9:00 – 19:00'
 
 ---
