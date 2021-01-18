@@ -67,10 +67,10 @@ about_product:
   title: Vous êtes forcément gagnant avec la Nextcloudbox.
   items:
   - image: images/showcase/showcase-4.png
-    title: Lorem ipsum dolor sit amet.
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate,
-      sed, assumenda. Tenetur sed esse, voluptas voluptate est veniam numquam, quis
-      magni. Architecto minus suscipit quas, quo harum deserunt consequatur cumque!
+    title: Vous êtes forcément gagnant avec la Nextcloudbox
+    content: |
+      La Nextcloudbox a été créée avec une  Raspberry Pi 4 qui est la dernière génération à ce jour. La carte elle même à une valeur de 70€, le disque dur 50€ et le boîtier 25€.
+      Si un jour vous ne souhaitez plus utiliser la Nextcloudbox comme elle vous l'a été vendue, vous pouvez installer Linux ou tout autre système afin de vous en faire un ordinateur. Avec le professeur 64bit, 4GB de RAM et un disque dur de 1 TO, faites en ce que vous voulez. Les logiciels sont open source et libre. C'est notre philosophie. Promis, on ne vous en veut pas si vous la replacez !
     button:
       enable: false
       label: Check Features
