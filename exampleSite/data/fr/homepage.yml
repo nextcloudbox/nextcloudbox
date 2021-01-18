@@ -77,7 +77,7 @@ about_product:
       link: "#"
 products:
   enable: true
-  title: Voir nos produits
+  title: Voir les différentes Nextcloudbox
 subscription:
   enable: true
   bg_image: images/call-to-action.jpg
