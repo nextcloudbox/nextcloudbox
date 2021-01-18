@@ -30,7 +30,7 @@ features:
   - title: Synchronisez vos agendas, contacts iOS et Android.
     icon: tf-ion-ios-cart-outline
     content: 'Grâce à l''application Nextcloud, vous pouvez synchroniser facilement
-      vos données : agendas, contatcs, photos, vidéos, mots de passe. Tout est chez
+      vos données : agendas, contacts, photos, vidéos, mots de passe. Tout est chez
       vous, en sécurité.'
   right_side:
   - title: 'La sécurité de vos données personnelles : notre priorité.'
