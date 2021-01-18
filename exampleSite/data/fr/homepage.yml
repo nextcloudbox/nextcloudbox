@@ -87,16 +87,14 @@ subscription:
   placeholder: Entrez votre adresse mail
 testimonial:
   enable: true
-  title: Watch Review
+  title: Leurs avis
   testimonial_item:
-  - name: Jonathon Andrew
-    designation: CEO, Themefisher
+  - name: Anthony DELAMARRE
+    designation: Produit acheté le 18/01/2021
     image: images/avater.png
-    content: A wonderful serenity has taken possession of my entire soul, like these
-      sweet mornings of spring which I enjoy with my whole heart. I am alone, and
-      feel the charm of existence in this spot, which was created for the bliss of
-      souls like mine. I am so happy, my dear friend, so absorbed in the exquisite
-      sense of mere tranquil existence, that I neglect my talents.
+    content: J'ai acheté ma Nextcloudbox en début d'année en version 1 TO. Il a été
+      très simple de l'installer ! Le support est au top pour les quelques petites
+      questions que j'avais.
   - name: Jonathon Andrew
     designation: CEO, Themefisher
     image: images/avater.png
