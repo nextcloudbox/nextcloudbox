@@ -19,34 +19,34 @@ weight = "1"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.footer]]
-name = "Contactez-nous"
-url = "contactez-nous"
-weight = 2
+name = "Politique de confidentialité"
+url = "politique-confidentialite"
+weight = 3
 [[menu.footer]]
 name = "Conditions générales de vente"
 url = "conditions-vente"
-weight = 3
+weight = 2
 [[menu.footer]]
-name = "Politique de confidentialité"
-url = "politique-confidentialite"
-weight = 4
-[[menu.main]]
-name = "Accueil"
-url = "/"
+name = "Contact"
+url = "contact"
 weight = 1
 [[menu.main]]
-name = "Produits"
-url = "produits"
-weight = 2
-[[menu.main]]
-name = "Les avis"
-pre = "#"
-url = "avis"
+name = "Contact"
+url = "contact"
 weight = 4
 [[menu.main]]
-name = "Contactez-nous"
-url = "contactez-nous"
-weight = 5
+name = "Review"
+pre = "#"
+url = "testimonial"
+weight = 3
+[[menu.main]]
+name = "Products"
+url = "products"
+weight = 2
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
 [params]
 author = "Themefisher"
 contact_form_action = "#"
