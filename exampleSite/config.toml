@@ -39,8 +39,8 @@ name = "Accueil"
 url = "/"
 weight = 1
 [[menu.main]]
-name = "Products"
-url = "products"
+name = "Produits"
+url = "produits"
 weight = 2
 [[menu.main]]
 name = "Blog"
