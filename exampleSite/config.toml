@@ -23,8 +23,8 @@ name = "Contactez-nous"
 url = "contactez-nous"
 weight = 2
 [[menu.footer]]
-name = "Terms & Conditions"
-url = "terms-conditions"
+name = "Conditions générales de vente"
+url = "conditions-vente"
 weight = 3
 [[menu.footer]]
 name = "Privacy Policy"
