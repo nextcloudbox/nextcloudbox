@@ -36,7 +36,7 @@ url = "/"
 weight = 1
 [[menu.main]]
 name = "Produits"
-url = "produits"
+url = "products"
 weight = 2
 [[menu.main]]
 name = "Les avis"
