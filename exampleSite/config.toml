@@ -31,20 +31,20 @@ name = "Contact"
 url = "contact"
 weight = 1
 [[menu.main]]
-name = "Contact"
+name = "Contactez-nous"
 url = "contact"
 weight = 4
 [[menu.main]]
-name = "Review"
+name = "Avis"
 pre = "#"
 url = "testimonial"
 weight = 3
 [[menu.main]]
-name = "Products"
+name = "Produits"
 url = "products"
 weight = 2
 [[menu.main]]
-name = "Home"
+name = "Accueil"
 url = "/"
 weight = 1
 [params]
