@@ -51,8 +51,8 @@ features:
     content: Nextcloud est multi-utilisateurs, vous pouvez donc créer différents comptes
       pour vos amis, familles... Chacun son compte, chacun ses fichiers. Vous pouvez
       les partager si vous le souhaitez. Nextcloud possède également de nombreuses
-      application pour collaborer en ligne (éditer des fichiers comme sur Google Docs
-      par exemple).
+      applications pour collaborer en ligne (éditer des fichiers comme sur Google
+      Docs par exemple).
 promo:
   enable: true
   image: images/nextcloudbox.png
