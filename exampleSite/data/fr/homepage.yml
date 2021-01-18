@@ -56,11 +56,12 @@ features:
 promo:
   enable: true
   image: images/nextcloudbox.png
-  title: Designed by professional , the benefit for creative gigs
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia vel labore,
-    deleniti minima nisi, velit atque quaerat impedit ea maxime sunt accusamus at
-    obcaecati dolor iure iusto omnis quis eum. <br><br> Lorem ipsum dolor sit amet,
-    consectetur adipisicing elit. Facilis commodi odit, illo, qui aliquam dol
+  title: Vos données restent vos données.
+  content: Nous n'y avons pas accès, elles sont chez vous, chiffrées à l'aide de votre
+    mot de passe que vous seul connaissez. Le chiffrement utilisé est de l'AES-256,
+    ce chiffrement est le standard de sécurité recommandé par l'Agence Nationale de
+    Sécurité des Systèmes d'information. D'ailleurs, l’État français utilise Nextcloud
+    pour sa sécurité.
 about_product:
   enable: true
   title: Why Choose Apple Watch
