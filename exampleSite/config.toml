@@ -58,11 +58,11 @@ weight = 5
 [params]
 author = "Themefisher"
 contact_form_action = "#"
-currency = "$"
-description = "This is meta description"
+currency = "€"
+description = "Nextcloudbox, Vous êtes uniques, vos données personnelles le sont aussi, elles doivent le rester. Votre Cloud maison, un seul disque dur pour toutes vos données. Votre espace de stockage accessible de partout."
 logo = "images/logo.png"
 logo_width = "100px"
-snipcart_api = "ZDgxY2ZiM2EtMWRmMi00M2ZkLWI1MDAtNzA2MDc0Y2Q1MzJlNjM3MTAzNDIwOTQ1NDA4NjM4"
+snipcart_api = "ODdhNDc3ZmEtMDYzOS00NTA2LThmNDEtNmVmZTQwYzliNmQ5NjM3NDY1OTgyNjk4NzkyODkw"
 [[params.plugins.css]]
 link = "https://fonts.googleapis.com/css?family=Droid+Serif:400|Josefin+Sans:300,400,600,700"
 [[params.plugins.css]]
