@@ -3,12 +3,12 @@ title: Contactez-nous
 description: Voici notre page de contact, n'hésitez pas à nous envoyer un mail nous
   y répondrons avec plaisir !
 office:
-  title: Central Office
-  mobile: '0124857985320'
-  email: demo@email.com
-  location: Dhaka, Bangladedsh
-  content: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
-    eirmod tempor invidunt ut labore et dolore magna
+  title: Cyber Factory
+  mobile: ''
+  email: ''
+  location: Paris, France
+  content: Voici notre page de contact, n'hésitez pas à nous envoyer un mail nous
+    y répondrons avec plaisir !
 opennig_hour:
   title: Opening Hours
   day_time:
