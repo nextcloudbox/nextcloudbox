@@ -5,25 +5,25 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: heading
-  label: Homepage
+  label: Accueil
 - type: document
   path: exampleSite/data/fr/homepage.yml
-  label: Homepage (fr)
+  label: Accueil
 - type: document
   path: exampleSite/data/en/homepage.yml
-  label: Homepage (en)
+  label: Homepage
 - type: heading
   label: Products
 - type: directory
   path: exampleSite/content/french/products
-  label: Products (fr)
+  label: Produits
   create: documents
   match: "**/*"
   templates:
   - product
 - type: directory
   path: exampleSite/content/english/products
-  label: Product (en)
+  label: Product
   create: documents
   match: "**/*"
   templates:
@@ -32,10 +32,10 @@ sections:
   label: Contact
 - type: document
   path: exampleSite/content/french/contact/_index.md
-  label: Contact (fr)
+  label: Contactez-nous
 - type: document
   path: exampleSite/content/english/contact/_index.md
-  label: Contact (en)
+  label: Contact
 - type: heading
   label: All Pages
 - type: directory
