@@ -10,14 +10,14 @@ office:
   content: Voici notre page de contact, n'hésitez pas à nous envoyer un mail nous
     y répondrons avec plaisir !
 opennig_hour:
-  title: Opening Hours
+  title: Horaires d'ouverture
   day_time:
-  - 'Monday: 9:00 – 19:00'
-  - 'Tuesday: 9:00 – 19:00'
-  - 'Wednesday: 9:00 – 19:00'
-  - 'Thursday: 9:00 – 19:00'
-  - 'Friday: 9:00 – 19:00'
-  - 'Saturday: 9:00 – 19:00'
-  - 'sunday: 9:00 – 19:00'
+  - 'Lundi : 9:00 – 22:00'
+  - 'Mardi : 9:00 – 22:00'
+  - 'Mercredi : 9:00 – 22:00'
+  - 'Jeudi : 9:00 – 22:00'
+  - 'Vendredi : 9:00 – 22:00'
+  - 'Samedi : 9:00 – 19:00'
+  - 'Dimanche : 9:00 – 22:00'
 
 ---
