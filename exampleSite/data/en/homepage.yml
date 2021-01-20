@@ -87,14 +87,12 @@ testimonial:
     content: I bought my Nextcloudbox at the beginning of the year in version 1 TO.
       It was very easy to install it! The support is at the top for the few little
       questions I had.
-  - name: Jonathon Andrew
-    designation: CEO, Themefisher
-    image: images/avater.png
-    content: A wonderful serenity has taken possession of my entire soul, like these
-      sweet mornings of spring which I enjoy with my whole heart. I am alone, and
-      feel the charm of existence in this spot, which was created for the bliss of
-      souls like mine. I am so happy, my dear friend, so absorbed in the exquisite
-      sense of mere tranquil existence, that I neglect my talents.
+  - name: Jean-Pierre LARMAND
+    designation: Product purchased on 23/02/2021
+    image: images/jean-pierre-larmand.jpg
+    content: My children bought me a Nextcloudbox for my birthday, I was a bit worried
+      before using it but the Nextcloud application is really easy to use. I used
+      to use Dropbox, but it's even better!
   - name: Jonathon Andrew
     designation: CEO, Themefisher
     image: images/avater.png
