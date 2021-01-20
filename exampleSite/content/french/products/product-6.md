@@ -10,7 +10,8 @@ description: Notre meilleure Nextcloudbox, 2 TO de disque dur uniquement pour vo
   cet espace de stockage.
 price: "250"
 discount_price: "235"
-colors: []
+colors:
+- noir
 sizes: []
 
 ---
