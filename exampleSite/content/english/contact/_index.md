@@ -7,7 +7,8 @@ office:
   mobile: ''
   email: ''
   location: Paris, France
-  content: ''
+  content: Here is our contact page, do not hesitate to send us an email we will answer
+    with pleasure!
 opennig_hour:
   title: Opening Hours
   day_time:
