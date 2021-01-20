@@ -2,7 +2,9 @@
 banner:
   enable: true
   title: Nextcloudbox
-  content: Your personal data are unique, they should rest it.
+  content: You are unique, your personal data are unique, and they must remain unique.
+    Your Home Cloud, a single hard drive for all your data. Your storage space accessible
+    from anywhere.
   image: images/nextcloudbox.png
   button:
     enable: true
