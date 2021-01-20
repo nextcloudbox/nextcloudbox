@@ -43,13 +43,12 @@ features:
       it''s a free and open source system, considered as one of the safest systems
       in the world. The source code is open to the public and you can even check it
       out.'
-  - title: Partagez vos fichiers avec votre famille
+  - title: Share your files with your family
     icon: tf-ion-ios-cart-outline
-    content: Nextcloud est multi-utilisateurs, vous pouvez donc créer différents comptes
-      pour vos amis, familles... Chacun son compte, chacun ses fichiers. Vous pouvez
-      les partager si vous le souhaitez. Nextcloud possède également de nombreuses
-      applications pour collaborer en ligne (éditer des fichiers comme sur Google
-      Docs par exemple).
+    content: Nextcloud is multi-user, so you can create different accounts for your
+      friends, family... Each one its account, each one its files. You can share them
+      if you want. Nextcloud also has many applications to collaborate online (edit
+      files like Google Docs for example).
 promo:
   enable: true
   image: images/nextcloudbox.png
