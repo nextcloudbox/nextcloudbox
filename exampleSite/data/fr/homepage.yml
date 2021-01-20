@@ -12,15 +12,14 @@ banner:
     link: products
 features:
   enable: true
-  title: Votre serveur, chez vous
+  title: Your own server, at home
   image: images/nextcloudbox.png
   left_side:
-  - title: Un disque dur dimensionné à vos besoins, le prix aussi.
+  - title: A hard drive sized to your needs, the price too.
     icon: tf-ion-ios-alarm-outline
-    content: Lors de l'achat de votre Nextcloudbox, vous choisissez votre capacité
-      de stockage, on s'occupe du reste. Vous n'achetez que ce dont vous avez besoin.
-      La contrainte de l'espace de stockage est terminée, plus besoin d'utiliser Dropbox,
-      iCloud, Google Drive...
+    content: When you buy your Nextcloudbox, you choose your storage capacity, we
+      take care of the rest. You only buy what you need. The constraint of storage
+      space is over, no more need to use Dropbox, iCloud, Google Drive ...
   - title: Bien plus qu'un NAS, un vrai Cloud.
     icon: tf-ion-ios-bell-outline
     content: Nextcloudbox n'est pas un simple NAS. C'est un Cloud, un vrai. Via l'application
