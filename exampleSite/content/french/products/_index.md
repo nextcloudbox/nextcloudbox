@@ -1,5 +1,5 @@
 ---
-title: All Nextcloudbox
+title: Toutes les Nextcloudbox
 description: ''
 images:
 - "/images/nextcloudbox-reduit.png"
