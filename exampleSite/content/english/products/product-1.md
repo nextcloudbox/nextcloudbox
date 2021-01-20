@@ -8,8 +8,8 @@ images:
 - images/showcase/showcase-2.png
 - images/showcase/showcase-3.png
 - images/showcase/showcase-4.png
-description: Notre Nextcloudbox originale, 1 TO de disque dur uniquement pour vos
-  données. Parfait pour stocker des films, vidéos, images et musique.
+description: Our original Nextcloudbox, 1 TO of hard disk only for your data. Perfect
+  for storing movies, videos, pictures and music.
 price: "209"
 discount_price: "195"
 colors:
