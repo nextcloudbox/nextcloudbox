@@ -36,13 +36,13 @@ features:
     content: Our team is passionate about IT security, and that's what we do for a
       living. We are pentester, that is to say that we carry out intrusion tests on
       any type of device. So we might as well tell you that we have tested our Nextcloudbox.
-  - title: Une fusion libre
+  - title: A merger from Free and open source software
     icon: tf-ion-ios-bell-outline
-    content: 'De quoi est constituée notre Nextcloudbox ? C''est simple : Un Raspberry
-      Pi 4 + YunoHost (Distribution Debian) + Nextcloud et ... c''est tout. Nous avons
-      choisi Debian car c''est un système libre et open source, considéré comme un
-      des systèmes les plus sûrs au monde. Le code source est ouvert au public et
-      vous pouvez même aller le consulter.'
+    content: 'What is our Nextcloudbox made of? It''s simple: A Raspberry Pi 4 + YunoHost
+      (Debian Distribution) + Nextcloud and ... that''s it. We chose Debian because
+      it''s a free and open source system, considered as one of the safest systems
+      in the world. The source code is open to the public and you can even check it
+      out.'
   - title: Partagez vos fichiers avec votre famille
     icon: tf-ion-ios-cart-outline
     content: Nextcloud est multi-utilisateurs, vous pouvez donc créer différents comptes
