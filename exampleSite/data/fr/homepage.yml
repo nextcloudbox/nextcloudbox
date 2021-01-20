@@ -26,11 +26,10 @@ features:
       application, access your data securely from anywhere in the world. You don't
       even need an internet connection if you sync your files with your PC, Mac or
       smartphone device.
-  - title: Synchronisez vos agendas, contacts iOS et Android.
+  - title: Synchronize your calendars, iOS and Android contacts.
     icon: tf-ion-ios-cart-outline
-    content: 'Grâce à l''application Nextcloud, vous pouvez synchroniser facilement
-      vos données : agendas, contacts, photos, vidéos, mots de passe. Tout est chez
-      vous, en sécurité.'
+    content: 'Thanks to the Nextcloud application, you can easily synchronize your
+      data: calendars, contacts, photos, videos, passwords. It''s all at home, securely.'
   right_side:
   - title: 'La sécurité de vos données personnelles : notre priorité.'
     icon: tf-ion-ios-alarm-outline
