@@ -8,7 +8,8 @@ description: Notre Nextcloudbox originale, 1 TO de disque dur uniquement pour vo
   données. Parfait pour stocker des films, vidéos, images et musique.
 price: "209"
 discount_price: "195"
-colors: []
+colors:
+- noir
 sizes: []
 
 ---
