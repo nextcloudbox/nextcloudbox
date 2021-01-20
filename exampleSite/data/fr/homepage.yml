@@ -20,12 +20,12 @@ features:
     content: When you buy your Nextcloudbox, you choose your storage capacity, we
       take care of the rest. You only buy what you need. The constraint of storage
       space is over, no more need to use Dropbox, iCloud, Google Drive ...
-  - title: Bien plus qu'un NAS, un vrai Cloud.
+  - title: Much more than a NAS, a real Cloud.
     icon: tf-ion-ios-bell-outline
-    content: Nextcloudbox n'est pas un simple NAS. C'est un Cloud, un vrai. Via l'application
-      Nextcloud, accédez à vos données en tout sécurité depuis n'importe où dans le
-      monde. Vous n'avez même pas besoin d'une connexion internet si vous synchronisez
-      vos fichiers avec votre périphérique PC, mac ou smartphone.
+    content: Nextcloudbox is not a simple NAS. It's a Cloud, a real one. Via the Nextcloud
+      application, access your data securely from anywhere in the world. You don't
+      even need an internet connection if you sync your files with your PC, Mac or
+      smartphone device.
   - title: Synchronisez vos agendas, contacts iOS et Android.
     icon: tf-ion-ios-cart-outline
     content: 'Grâce à l''application Nextcloud, vous pouvez synchroniser facilement
