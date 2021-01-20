@@ -31,12 +31,11 @@ features:
     content: 'Thanks to the Nextcloud application, you can easily synchronize your
       data: calendars, contacts, photos, videos, passwords. It''s all at home, securely.'
   right_side:
-  - title: 'La sécurité de vos données personnelles : notre priorité.'
+  - title: 'The security of your personal data: our priority.'
     icon: tf-ion-ios-alarm-outline
-    content: Notre équipe est passionnée par la sécurité informatique, d'ailleurs
-      c'est notre métier. Nous sommes pentester, c'est à dire que nous réalisons des
-      tests d'intrusion sur tout type de périphérique. Alors autant vous dire, notre
-      Nextcloudbox, nous l'avons testé.
+    content: Our team is passionate about IT security, and that's what we do for a
+      living. We are pentester, that is to say that we carry out intrusion tests on
+      any type of device. So we might as well tell you that we have tested our Nextcloudbox.
   - title: Une fusion libre
     icon: tf-ion-ios-bell-outline
     content: 'De quoi est constituée notre Nextcloudbox ? C''est simple : Un Raspberry
