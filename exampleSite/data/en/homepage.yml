@@ -2,9 +2,9 @@
 banner:
   enable: true
   title: Nextcloudbox
-  content: You are unique, your personal data are unique, and they must remain unique.
-    Your Home Cloud, a single hard drive for all your data. Your storage space accessible
-    from anywhere.
+  content: |-
+    You are unique, your personal data are unique, and they must remain unique.
+    Your Home Cloud, a single hard drive for all your data. Your storage space accessible from anywhere.
   image: images/nextcloudbox.png
   button:
     enable: true
@@ -12,73 +12,70 @@ banner:
     link: products
 features:
   enable: true
-  title: Personlize your domain name
+  title: Your own server, at home
   image: images/nextcloudbox.png
   left_side:
-  - title: Smooth Touch
+  - title: A hard drive sized to your needs, the price too.
     icon: tf-ion-ios-alarm-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
-  - title: Elegant Design
+    content: When you buy your Nextcloudbox, you choose your storage capacity, we
+      take care of the rest. You only buy what you need. The constraint of storage
+      space is over, no more need to use Dropbox, iCloud, Google Drive ...
+  - title: Much more than a NAS, a real Cloud.
     icon: tf-ion-ios-bell-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
-  - title: Easy Pricing
+    content: Nextcloudbox is not a simple NAS. It's a Cloud, a real one. Via the Nextcloud
+      application, access your data securely from anywhere in the world. You don't
+      even need an internet connection if you sync your files with your PC, Mac or
+      smartphone device.
+  - title: Synchronize your calendars, iOS and Android contacts.
     icon: tf-ion-ios-cart-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
+    content: 'Thanks to the Nextcloud application, you can easily synchronize your
+      data: calendars, contacts, photos, videos, passwords. It''s all at home, securely.'
   right_side:
-  - title: Smooth Touch
+  - title: 'The security of your personal data: our priority.'
     icon: tf-ion-ios-alarm-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
-  - title: Elegant Design
+    content: Our team is passionate about IT security, and that's what we do for a
+      living. We are pentester, that is to say that we carry out intrusion tests on
+      any type of device. So we might as well tell you that we have tested our Nextcloudbox.
+  - title: A merger from Free and open source software
     icon: tf-ion-ios-bell-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
-  - title: Easy Pricing
+    content: 'What is our Nextcloudbox made of? It''s simple: A Raspberry Pi 4 + YunoHost
+      (Debian Distribution) + Nextcloud and ... that''s it. We chose Debian because
+      it''s a free and open source system, considered as one of the safest systems
+      in the world. The source code is open to the public and you can even check it
+      out.'
+  - title: Share your files with your family
     icon: tf-ion-ios-cart-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
+    content: Nextcloud is multi-user, so you can create different accounts for your
+      friends, family... Each one its account, each one its files. You can share them
+      if you want. Nextcloud also has many applications to collaborate online (edit
+      files like Google Docs for example).
 promo:
   enable: true
   image: images/nextcloudbox.png
-  title: Designed by professional , the benefit for creative gigs
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia vel labore,
-    deleniti minima nisi, velit atque quaerat impedit ea maxime sunt accusamus at
-    obcaecati dolor iure iusto omnis quis eum. <br><br> Lorem ipsum dolor sit amet,
-    consectetur adipisicing elit. Facilis commodi odit, illo, qui aliquam dol
+  title: Your data stay yours.
+  content: We don't have access to them, they are at your place, encrypted with your password that only you know. The encryption used is AES-256, this encryption is the security standard recommended by the National Agency for the Security of Information Systems. Moreover, the French government uses Nextcloud for its security.
 about_product:
   enable: true
-  title: Why Choose Apple Watch
+  title: You always win financially with the Nextcloudbox.
   items:
-  - image: images/showcase/showcase-4.png
-    title: Lorem ipsum dolor sit amet.
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate,
-      sed, assumenda. Tenetur sed esse, voluptas voluptate est veniam numquam, quis
-      magni. Architecto minus suscipit quas, quo harum deserunt consequatur cumque!
-    button:
-      enable: false
-      label: Check Features
-      link: "#"
-  - image: images/showcase/showcase-3.png
-    title: Lorem ipsum dolor sit amet.
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate,
-      sed, assumenda. Tenetur sed esse, voluptas voluptate est veniam numquam, quis
-      magni. Architecto minus suscipit quas, quo harum deserunt consequatur cumque!
+  - image: images/nextcloudbox.png
+    title: You always win financially with the Nextcloudbox.
+    content: |-
+      The Nextcloudbox was created with a Raspberry Pi 4 which is the latest generation to date. The card itself has a value of 70€, the hard disk 50€ and the case 25€.
+      If one day you don't want to use the Nextcloudbox as it was sold to you, you can install Linux or any other system in order to use it as a computer. With the 64bit teacher, 4GB of RAM and a 1TB hard disk, you can do whatever you want with it. The software is open source and free. This is our philosophy. We promise, we won't hold it against you if you replace it!
     button:
       enable: false
       label: Check Features
       link: "#"
 products:
   enable: true
-  title: Checkout Our All Products
+  title: See all Nextcloudbox
 subscription:
   enable: true
   bg_image: images/call-to-action.jpg
-  title: Get Product Updates
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  placeholder: Your Email Address Here
+  title: Follow us
+  content: Sign up to receive some news from us from time to time.
+  placeholder: Enter your mail address
 testimonial:
   enable: true
   title: Customer reviews
@@ -86,17 +83,12 @@ testimonial:
   - name: Anthony DELAMARRE
     designation: Product purchased on 18/01/2021
     image: images/anthony-delamarre.jpg
-    content: I bought my Nextcloudbox at the beginning of the year in version 1 TO.
-      It was very easy to install it! The support is at the top for the few little
-      questions I had.
+    content: I bought my Nextcloudbox at the beginning of the year in version 1 TO. It was very easy to install it! The support is at the top for the few little questions I had.
   - name: Jean-Pierre LARMAND
     designation: Product purchased on 23/02/2021
     image: images/jean-pierre-larmand.jpg
-    content: My children bought me a Nextcloudbox for my birthday, I was a bit worried
-      before using it but the Nextcloud application is really easy to use. I used
-      to use Dropbox, but it's even better!
+    content: My children bought me a Nextcloudbox for my birthday, I was a bit worried before using it but the Nextcloud application is really easy to use. I used to use Dropbox, it's even better!
   - name: François FREVAUD
     designation: Product purchased on 19/12/2020
     image: images/francois-frevaud.jpg
-    content: I'm very geek and very fond of this kind of product! I was one of the
-      first to buy the Nextcloudbox and I'm delighted! I recommend it 100%!
+    content: I'm very geek and very fond of this kind of product! I was one of the first to buy the Nextcloudbox and I'm delighted! I recommend it 100%!
