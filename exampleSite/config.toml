@@ -12,7 +12,7 @@ languageName = "En"
 weight = "2"
 [Languages.fr]
 contentDir = "content/french"
-copyright = "Crée par [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+copyright = "NextCloudBox"
 languageCode = "fr-fr"
 languageName = "Fr"
 weight = "1"
