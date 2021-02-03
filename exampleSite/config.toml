@@ -1,4 +1,5 @@
 baseurl = "https://nextcloudbox.netlify.app/"
+defaultContentLanguage = "fr"
 disableLanguages = []
 googleAnalytics = ""
 summarylength = "20"
