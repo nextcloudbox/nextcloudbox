@@ -50,7 +50,7 @@ url = "/"
 weight = 1
 [params]
 author = "Themefisher"
-contact_form_action = "#"
+contact_form_action = "https://formspree.io/f/mrgodryb"
 currency = "€"
 description = "Nextcloudbox, votre Cloud maison, un seul disque dur pour toutes vos données. Votre espace de stockage accessible de partout, pas cher et facile à prendre en main."
 logo = "images/logo.png"
