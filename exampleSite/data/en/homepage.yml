@@ -13,7 +13,7 @@ banner:
 features:
   enable: true
   title: Your own server, at home
-  image: images/nextcloudbox.png
+  image: images/nextcloudbox.jpg
   left_side:
   - title: A hard drive sized to your needs, the price too.
     icon: tf-ion-ios-alarm-outline
