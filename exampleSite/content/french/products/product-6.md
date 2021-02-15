@@ -2,7 +2,7 @@
 title: Nextcloudbox 2 TO
 date: 2021-01-18T07:22:16.000+01:00
 images:
-- "/images/nextcloudbox.png"
+- "/images/nextcloudbox.jpg"
 - "/images/nextcloudbox-reduit.png"
 description: Notre meilleure Nextcloudbox, 2 TO de disque dur uniquement pour vos
   données. Parfait pour stocker des films, vidéos, images et musique. Nous vous conseillons
