@@ -5,7 +5,7 @@ banner:
   content: |-
     Vous êtes uniques, vos données personnelles le sont aussi, elles doivent le rester.
     Votre Cloud maison, un seul disque dur pour toutes vos données. Votre espace de stockage accessible de partout.
-  image: images/nextcloudbox.png
+  image: images/nextcloudbox.jpg
   button:
     enable: true
     label: Voir toutes les version de la Nextcloudbox
