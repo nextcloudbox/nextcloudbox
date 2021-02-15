@@ -61,7 +61,7 @@ about_product:
   enable: true
   title: You always win financially with the Nextcloudbox.
   items:
-  - image: images/nextcloudbox.png
+  - image: images/nextcloudbox.jpg
     title: You always win financially with the Nextcloudbox.
     content: |-
       The Nextcloudbox was created with a Raspberry Pi 4 which is the latest generation to date. The card itself has a value of 70€, the hard disk 50€ and the case 25€.
