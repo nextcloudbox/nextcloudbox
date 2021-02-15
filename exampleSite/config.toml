@@ -55,7 +55,7 @@ currency = "€"
 description = "Nextcloudbox, votre Cloud maison, un seul disque dur pour toutes vos données. Votre espace de stockage accessible de partout, pas cher et facile à prendre en main."
 logo = "images/logo.png"
 logo_width = "100px"
-snipcart_api = "ODdhNDc3ZmEtMDYzOS00NTA2LThmNDEtNmVmZTQwYzliNmQ5NjM3NDY1OTgyNjk4NzkyODkw"
+snipcart_api = "OTczNmFiZDMtOTQ2MC00N2YyLTlkOGMtNTRkYjE0ZDczMGY2NjM3NDY1OTgyNjk4NzkyODkw"
 [[params.plugins.css]]
 link = "https://fonts.googleapis.com/css?family=Droid+Serif:400|Josefin+Sans:300,400,600,700"
 [[params.plugins.css]]
