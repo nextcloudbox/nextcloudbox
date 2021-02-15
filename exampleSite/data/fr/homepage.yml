@@ -66,7 +66,7 @@ about_product:
   enable: true
   title: Vous êtes forcément gagnant avec la Nextcloudbox.
   items:
-  - image: images/nextcloudbox.png
+  - image: images/nextcloudbox.jpg
     title: Vous êtes forcément gagnant avec la Nextcloudbox.
     content: |-
       La Nextcloudbox a été créée avec une  Raspberry Pi 4 qui est la dernière génération à ce jour. La carte elle même à une valeur de 70€, le disque dur 50€ et le boîtier 25€.
