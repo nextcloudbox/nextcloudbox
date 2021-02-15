@@ -55,7 +55,7 @@ features:
       Docs par exemple).
 promo:
   enable: true
-  image: images/nextcloudbox.jpg
+  image: images/nextcloudbox_fond_orange.jpg
   title: Vos données restent vos données.
   content: Nous n'y avons pas accès, elles sont chez vous, chiffrées à l'aide de votre
     mot de passe que vous seul connaissez. Le chiffrement utilisé est de l'AES-256,
