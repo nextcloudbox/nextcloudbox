@@ -5,7 +5,7 @@ banner:
   content: |-
     You are unique, your personal data are unique, and they must remain unique.
     Your Home Cloud, a single hard drive for all your data. Your storage space accessible from anywhere.
-  image: images/nextcloudbox.png
+  image: images/nextcloudbox.jpg
   button:
     enable: true
     label: Browse All Products
@@ -53,7 +53,10 @@ promo:
   enable: true
   image: images/nextcloudbox.png
   title: Your data stay yours.
-  content: We don't have access to them, they are at your place, encrypted with your password that only you know. The encryption used is AES-256, this encryption is the security standard recommended by the National Agency for the Security of Information Systems. Moreover, the French government uses Nextcloud for its security.
+  content: We don't have access to them, they are at your place, encrypted with your
+    password that only you know. The encryption used is AES-256, this encryption is
+    the security standard recommended by the National Agency for the Security of Information
+    Systems. Moreover, the French government uses Nextcloud for its security.
 about_product:
   enable: true
   title: You always win financially with the Nextcloudbox.
@@ -83,12 +86,17 @@ testimonial:
   - name: Anthony DELAMARRE
     designation: Product purchased on 18/01/2021
     image: images/anthony-delamarre.jpg
-    content: I bought my Nextcloudbox at the beginning of the year in version 1 TO. It was very easy to install it! The support is at the top for the few little questions I had.
+    content: I bought my Nextcloudbox at the beginning of the year in version 1 TO.
+      It was very easy to install it! The support is at the top for the few little
+      questions I had.
   - name: Jean-Pierre LARMAND
     designation: Product purchased on 23/02/2021
     image: images/jean-pierre-larmand.jpg
-    content: My children bought me a Nextcloudbox for my birthday, I was a bit worried before using it but the Nextcloud application is really easy to use. I used to use Dropbox, it's even better!
+    content: My children bought me a Nextcloudbox for my birthday, I was a bit worried
+      before using it but the Nextcloud application is really easy to use. I used
+      to use Dropbox, it's even better!
   - name: François FREVAUD
     designation: Product purchased on 19/12/2020
     image: images/francois-frevaud.jpg
-    content: I'm very geek and very fond of this kind of product! I was one of the first to buy the Nextcloudbox and I'm delighted! I recommend it 100%!
+    content: I'm very geek and very fond of this kind of product! I was one of the
+      first to buy the Nextcloudbox and I'm delighted! I recommend it 100%!
