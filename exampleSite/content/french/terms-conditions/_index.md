@@ -13,11 +13,6 @@ Tous les paiements sont traités de manière sécurisée par Stripe. Nextcloudbo
 
 Veuillez lire les conditions générales énoncées ci-dessous, qui décrivent de nombreux avantages juridiques, mais en fin de compte, notre objectif est de toujours prendre soin de nous deux, en tant que client ou en tant que vendeur. Nous avons inclus un grand nombre de ces conditions pour nous protéger juridiquement, mais si vous avez un problème, n'hésitez pas à nous envoyer un courriel à [https://nextcloudbox.netlify.app/contact/](https://nextcloudbox.netlify.app/contact/ "https://nextcloudbox.netlify.app/contact/") et nous ferons de notre mieux pour le résoudre de manière équitable et rapide.
 
-### Refund Policy
-
-1. Since Nextcloudbox is offering non-tangible and irrevocable products, we do NOT issue refunds after a purchase is made. If there is a problem with one of the products or if you experience any difficulty with the download, we will fix the problem.
-2. When you make a qualifying return, We’ll credit the full amount, less the handling charges. Refunds are generally processed within 3–5 business days after we receive your claim and find it eligible for a return. Refunds are applied to the original payment option.
-
 ### Politique de remboursement
 
 1. Comme Nextcloudbox propose des produits non tangibles et irrévocables, nous n'effectuons PAS de remboursement après un achat. En cas de problème avec l'un des produits ou si vous rencontrez des difficultés lors du téléchargement, nous nous chargeons de résoudre le problème.
