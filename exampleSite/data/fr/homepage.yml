@@ -79,7 +79,7 @@ products:
   enable: true
   title: Voir les différentes Nextcloudbox
 subscription:
-  enable: true
+  enable: false
   bg_image: images/call-to-action.jpg
   title: Suivez-nous
   content: Inscrivez vous pour recevoir quelque nouvelles de notre part de temps en
