@@ -51,7 +51,7 @@ features:
       files like Google Docs for example).
 promo:
   enable: true
-  image: images/nextcloudbox_fond_orange.jpg
+  image: images/nextcloudbox_chiffrement_donnees.jpg
   title: Your data stay yours.
   content: We don't have access to them, they are at your place, encrypted with your
     password that only you know. The encryption used is AES-256, this encryption is
