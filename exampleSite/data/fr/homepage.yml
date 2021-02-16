@@ -13,7 +13,7 @@ banner:
 features:
   enable: true
   title: Votre serveur, chez vous
-  image: images/nextcloud_home_server.jpg
+  image: images/nextcloudbox.jpg
   left_side:
   - title: Un disque dur dimensionné à vos besoins, le prix aussi.
     icon: tf-ion-ios-alarm-outline
